@@ -8,8 +8,6 @@ title: "[Your Page Title]"
 subtitle: "[Your Subtitle - Optional]"
 ---
 
-<!-- This is a template for any optional page you want to add -->
-<!-- Examples: Hobbies, Travel, Learning Notes, Favorite Movies, Recipes, etc. -->
 
 ## Introduction
 

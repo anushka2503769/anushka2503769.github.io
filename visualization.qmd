@@ -13,39 +13,6 @@ subtitle: "Exploring Data Through Visual Stories"
 ![apple](images/apple_close_sma.png)
 ![google](images/google_close_sma.png)
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-
-# Example R code for visualization
-# Replace this with your actual code
-
-# library(ggplot2)
-# library(dplyr)
-# 
-# your_data %>%
-#   ggplot(aes(x = variable1, y = variable2)) +
-#   geom_bar(stat = "identity", fill = "#D4A59A") +
-#   theme_minimal() +
-#   labs(title = "Your Visualization Title",
-#        subtitle = "Your subtitle",
-#        x = "X-axis label",
-#        y = "Y-axis label")
-```
-
-<!-- OR for Python: -->
-
-```{python}
-#| echo: false
-#| warning: false
-
-# import matplotlib.pyplot as plt
-# import pandas as pd
-# 
-# # Your visualization code here
-```
-
 ---
 
 ## What This Visualization Shows

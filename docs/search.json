@@ -1,17 +1,199 @@
 [
   {
+    "objectID": "visualization.html#what-this-visualization-shows",
+    "href": "visualization.html#what-this-visualization-shows",
+    "title": "Data Visualization",
+    "section": "What This Visualization Shows",
+    "text": "What This Visualization Shows\n\nThe Data\nDescribe the dataset you visualized:\n\nSource: Where did the data come from? (e.g., course project, research, public dataset)\nTime Period: When was this data collected?\nSample Size: How many data points or observations?\nVariables: What variables are being visualized?\n\n\n\nKey Insights\nExplain what the visualization reveals:\n\nMain Finding 1: [Describe what stands out]\nMain Finding 2: [Another important pattern or trend]\nSurprising Discovery: [Something unexpected you noticed]\n\n\n“Data visualization is not just about making pretty charts—it’s about revealing truth hidden in numbers.”"
+  },
+  {
+    "objectID": "visualization.html#the-story-behind-this-work",
+    "href": "visualization.html#the-story-behind-this-work",
+    "title": "Data Visualization",
+    "section": "The Story Behind This Work",
+    "text": "The Story Behind This Work\n\nContext\nExplain when and why you created this visualization:\n\nWhat course or project was this for?\nWhat was the assignment or goal?\nWhen did you create this? (which semester/year)\n\n\n\nThe Challenge\nWhat problem were you trying to solve with this visualization?\n\nWhat question were you trying to answer?\nWho was the intended audience?\nWhat message did you want to convey?"
+  },
+  {
+    "objectID": "visualization.html#design-choices",
+    "href": "visualization.html#design-choices",
+    "title": "Data Visualization",
+    "section": "Design Choices",
+    "text": "Design Choices\n\nWhy This Type of Chart?\nExplain your choice of visualization type (bar chart, line graph, scatter plot, etc.):\nI chose [chart type] because:\n\nReason 1\nReason 2\nIt best represents [what aspect of the data]\n\n\n\nColor and Style\nDiscuss your aesthetic decisions:\n\nColor Palette: Why did you choose these colors?\nLayout: Why this particular arrangement?\nLabels and Annotations: What did you emphasize and why?\n\n\n\nAlternative Approaches Considered\nWhat other visualization types did you consider? Why didn’t you use them?"
+  },
+  {
+    "objectID": "visualization.html#tools-techniques",
+    "href": "visualization.html#tools-techniques",
+    "title": "Data Visualization",
+    "section": "Tools & Techniques",
+    "text": "Tools & Techniques\n\nSoftware Used\n\nPrimary Tool: [e.g., R with ggplot2, Python with matplotlib, Tableau, Excel]\nAdditional Libraries: [Any specific packages or tools]\n\n\n\nTechnical Challenges\nWhat difficulties did you face while creating this?\n\nChallenge 1: [Description and solution]\nChallenge 2: [Description and solution]"
+  },
+  {
+    "objectID": "visualization.html#what-i-learned",
+    "href": "visualization.html#what-i-learned",
+    "title": "Data Visualization",
+    "section": "What I Learned",
+    "text": "What I Learned\n\nTechnical Skills\n\nSkill 1: [e.g., Data cleaning and preparation]\nSkill 2: [e.g., Choosing appropriate chart types]\nSkill 3: [e.g., Color theory for data visualization]\n\n\n\nConceptual Understanding\nReflect on what this project taught you about:\n\nThe importance of data visualization\nHow to communicate insights effectively\nThe relationship between data and storytelling"
+  },
+  {
+    "objectID": "visualization.html#if-i-could-redo-this",
+    "href": "visualization.html#if-i-could-redo-this",
+    "title": "Data Visualization",
+    "section": "If I Could Redo This…",
+    "text": "If I Could Redo This…\nLooking back, what would you do differently?\n\nImprovement 1\nImprovement 2\nAdditional analysis you would include"
+  },
+  {
+    "objectID": "visualization.html#conclusion",
+    "href": "visualization.html#conclusion",
+    "title": "Data Visualization",
+    "section": "Conclusion",
+    "text": "Conclusion\nSummarize the value of this visualization work. What was the most important takeaway from this experience?\nCreated: [Month Year] | Course: [Course Name/Code] | Tool: Software Used"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "project",
+    "section": "",
+    "text": "Describe your final year project or significant project you completed. Include:\n\nWhat is the project about?\nWhat problem does it solve?\nWhy is it important?"
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "project",
+    "section": "",
+    "text": "Describe your final year project or significant project you completed. Include:\n\nWhat is the project about?\nWhat problem does it solve?\nWhy is it important?"
+  },
+  {
+    "objectID": "project.html#background-motivation",
+    "href": "project.html#background-motivation",
+    "title": "project",
+    "section": "Background & Motivation",
+    "text": "Background & Motivation\n\nThe Challenge\nExplain the problem or challenge your project addresses. What gap did you identify? What inspired you to work on this?\n\n\nObjectives\nList your main objectives:\n\nPrimary Objective: [Description]\nSecondary Objective: [Description]\nLearning Goal: [Description]"
+  },
+  {
+    "objectID": "project.html#methodology",
+    "href": "project.html#methodology",
+    "title": "project",
+    "section": "Methodology",
+    "text": "Methodology\n\nApproach\nDescribe how you approached the project:\n\nResearch Phase: What research did you conduct?\nDesign Phase: How did you plan and design your solution?\nImplementation: What tools/technologies did you use?\nTesting: How did you validate your work?\n\n\n\nTechnologies Used\n\nTechnology 1\nTechnology 2\nTechnology 3\nFramework/Tool X\nPlatform Y"
+  },
+  {
+    "objectID": "project.html#key-features",
+    "href": "project.html#key-features",
+    "title": "project",
+    "section": "Key Features",
+    "text": "Key Features\nHighlight the main features or components of your project:\nFeature 1: [Name] Description of this feature and its significance.\nFeature 2: [Name] Description of this feature and its significance.\nFeature 3: [Name] Description of this feature and its significance."
+  },
+  {
+    "objectID": "project.html#results-outcomes",
+    "href": "project.html#results-outcomes",
+    "title": "project",
+    "section": "Results & Outcomes",
+    "text": "Results & Outcomes\n\nWhat I Achieved\nDiscuss your results: - What did you successfully create or discover? - How well did it meet your objectives? - What impact did it have?\n\n\nChallenges Faced\nShare the obstacles you encountered:\n\n“Every challenge was an opportunity to learn something new.”\n\n\nChallenge 1: [Description] - How you overcame it\nChallenge 2: [Description] - How you overcame it\nChallenge 3: [Description] - How you overcame it"
+  },
+  {
+    "objectID": "project.html#learning-experience",
+    "href": "project.html#learning-experience",
+    "title": "project",
+    "section": "Learning Experience",
+    "text": "Learning Experience\n\nSkills Developed\nThrough this project, I developed:\n\nTechnical skill 1\nTechnical skill 2\nSoft skill 1 (e.g., time management, problem-solving)\nSoft skill 2\n\n\n\nPersonal Growth\nReflect on how this project changed you or influenced your thinking."
+  },
+  {
+    "objectID": "project.html#future-improvements",
+    "href": "project.html#future-improvements",
+    "title": "project",
+    "section": "Future Improvements",
+    "text": "Future Improvements\nIf you had more time, what would you improve or add?\n\nImprovement idea 1\nImprovement idea 2\nPotential expansion"
+  },
+  {
+    "objectID": "project.html#conclusion",
+    "href": "project.html#conclusion",
+    "title": "project",
+    "section": "Conclusion",
+    "text": "Conclusion\nSummarize your overall experience with this project. What was the most valuable takeaway?\n\n\n\nProject Duration: [Start Date] - [End Date]\nSupervisor/Mentor: [Name] (if applicable)"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "[Your Page Title]",
+    "section": "",
+    "text": "Write a few sentences about what this page is about and why you’re sharing it."
+  },
+  {
+    "objectID": "hobbies.html#introduction",
+    "href": "hobbies.html#introduction",
+    "title": "[Your Page Title]",
+    "section": "",
+    "text": "Write a few sentences about what this page is about and why you’re sharing it."
+  },
+  {
+    "objectID": "hobbies.html#main-section-1",
+    "href": "hobbies.html#main-section-1",
+    "title": "[Your Page Title]",
+    "section": "[Main Section 1]",
+    "text": "[Main Section 1]\n\nSubsection\nShare your content here. This could be:\n\nA list of items\nA narrative story\nTechnical notes\nPersonal reflections\nPhoto gallery with descriptions\n\nExample for Hobbies Page:\n\n\nPhotography\nI’ve been passionate about photography for [time period]. What draws me to this hobby is [reason].\nSome of my favorite subjects to photograph:\n\nLandscapes: [Why you enjoy this]\nStreet Photography: [Your experience]\nPortraits: [What you’ve learned]"
+  },
+  {
+    "objectID": "hobbies.html#main-section-2",
+    "href": "hobbies.html#main-section-2",
+    "title": "[Your Page Title]",
+    "section": "[Main Section 2]",
+    "text": "[Main Section 2]\n\nAnother Aspect\nContinue sharing relevant content.\n\n“An inspiring quote related to your topic”\n— Author\n\nExample for Learning Notes:\n\n\nKey Concepts I’ve Learned\nConcept 1: [Name]\nExplanation of what you learned and why it’s important to you.\n// If relevant, include code snippets or examples\nexample code here\nConcept 2: [Name]\nAnother important learning point."
+  },
+  {
+    "objectID": "hobbies.html#main-section-3",
+    "href": "hobbies.html#main-section-3",
+    "title": "[Your Page Title]",
+    "section": "[Main Section 3]",
+    "text": "[Main Section 3]\n\nPersonal Stories\nShare anecdotes or experiences related to your topic.\nExample for Travel:\n\n\nMy Trip to [Destination]\nIn [year/month], I traveled to [place]. This experience was significant because:\n\nReason 1\nReason 2\nWhat I discovered about myself\n\nThe most memorable moment was when [describe experience]."
+  },
+  {
+    "objectID": "hobbies.html#what-this-means-to-me",
+    "href": "hobbies.html#what-this-means-to-me",
+    "title": "[Your Page Title]",
+    "section": "What This Means to Me",
+    "text": "What This Means to Me\nReflect on why this topic is important in your life:\n\nHow it shaped you\nWhat you’ve gained from it\nHow it connects to your goals or values"
+  },
+  {
+    "objectID": "hobbies.html#future-plans",
+    "href": "hobbies.html#future-plans",
+    "title": "[Your Page Title]",
+    "section": "Future Plans",
+    "text": "Future Plans\nWhat are your goals or aspirations related to this topic?\n\nPlan 1\nPlan 2\nDream goal"
+  },
+  {
+    "objectID": "hobbies.html#gallery-additional-content",
+    "href": "hobbies.html#gallery-additional-content",
+    "title": "[Your Page Title]",
+    "section": "Gallery / Additional Content",
+    "text": "Gallery / Additional Content"
+  },
+  {
+    "objectID": "hobbies.html#conclusion",
+    "href": "hobbies.html#conclusion",
+    "title": "[Your Page Title]",
+    "section": "Conclusion",
+    "text": "Conclusion\nWrap up your page with final thoughts about this topic.\n\nLast Updated: [Date]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“A quote that inspires you or represents your philosophy”\n— Author Name"
+    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“Kindling a flame, not filling a vessel.”\n— Socrates"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Welcome",
     "section": "",
-    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“A quote that inspires you or represents your philosophy”\n— Author Name"
+    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“Kindling a flame, not filling a vessel.”\n— Socrates"
   },
   {
     "objectID": "index.html#quick-facts",
@@ -25,6 +207,90 @@
     "href": "index.html#what-youll-find-here",
     "title": "Welcome",
     "section": "What You’ll Find Here",
-    "text": "What You’ll Find Here\nThis website is a collection of my academic journey, creative work, and reflections:\nMy Project explores [brief description of your FYP or main project]\nData Visualization showcases my work in stock market trend analysis using Python and Seaborn.\nGenAI Reflection shares my honest experience and thoughts on using artificial intelligence tools in my learning journey.\n\n\nConnect With Me\n\n\nGitHub: anushka203769\nEmail: anushkanavneetchourasia@gmail.com\n\n\n\n“Learning is a journey, not a destination.”``"
+    "text": "What You’ll Find Here\nThis website is a collection of my academic journey, creative work, and reflections:\nMy Project explores EverFlow, a blockchain-based supply chain solution I developed.\nData Visualization showcases my work in stock market trend analysis using Python and Seaborn.\nGenAI Reflection shares my honest experience and thoughts on using artificial intelligence tools in my learning journey.\n\n\nConnect With Me\n\n\nGitHub: anushka203769\nEmail: anushkanavneetchourasia@gmail.com\n\n\n\n“Learning is a journey, not a destination.”``"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "“Technology is best when it brings people together and enhances human capability.”"
+  },
+  {
+    "objectID": "reflection.html#introduction",
+    "href": "reflection.html#introduction",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Introduction",
+    "text": "Introduction\nThis reflection documents my honest experience using Generative AI tools to complete this web portfolio assessment. I share both the benefits and challenges I encountered, along with my thoughts on AI’s role in education."
+  },
+  {
+    "objectID": "reflection.html#the-ai-tool-i-used",
+    "href": "reflection.html#the-ai-tool-i-used",
+    "title": "Reflection on the Use of GenAI",
+    "section": "The AI Tool I Used",
+    "text": "The AI Tool I Used\n\nTool Selection\nPrimary Tool: [Name of GenAI tool - e.g., Claude, ChatGPT, etc.]\nWhy I Chose This Tool:\nWrite your genuine reasons here: - Reason 1 (e.g., Accessibility, features, recommendations) - Reason 2 (e.g., Previous experience, capabilities) - Reason 3 (e.g., Specific strengths for this task)\n\n\nOther Tools Considered\nDid you consider other AI tools? Why did you choose this one over others?"
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-me",
+    "href": "reflection.html#how-genai-helped-me",
+    "title": "Reflection on the Use of GenAI",
+    "section": "How GenAI Helped Me",
+    "text": "How GenAI Helped Me\n\nSpecific Examples\nBe honest and specific about how the AI assisted you:\nExample 1: [Task Name - e.g., Website Styling]\nDescribe what you needed help with and how the AI helped: - What was your goal? - What prompt did you use? - What did the AI provide? - How did you use or adapt the output?\nExample 2: [Task Name - e.g., Content Structuring]\nAnother specific instance: - The challenge you faced - How you asked the AI for help - The assistance provided - Your modifications or customizations\nExample 3: [Task Name - e.g., Technical Problem-Solving]\nA third concrete example: - The problem - The AI’s suggestion - How it worked out"
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Benefits of Using GenAI",
+    "text": "Benefits of Using GenAI\n\nWhat Worked Well\nReflect on the positive aspects:\n\nEfficiency: How did it save you time?\nLearning: Did it help you understand concepts better?\nCreativity: Did it inspire ideas you wouldn’t have thought of?\nProblem-Solving: How did it help you overcome obstacles?\n\n\n\nUnexpected Advantages\nWhat surprised you positively about using GenAI?\n\nUnexpected benefit 1\nUnexpected benefit 2\n\n\nShare a memorable quote or realization you had while using the AI."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-limitations",
+    "href": "reflection.html#challenges-and-limitations",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Challenges and Limitations",
+    "text": "Challenges and Limitations\n\nWhat Didn’t Work Well\nBe honest about the difficulties:\nChallenge 1: [Name the issue]\nDescribe a specific instance where the AI fell short: - What happened? - Why was it problematic? - How did you resolve it?\nChallenge 2: [Another challenge]\nAnother difficulty you encountered: - The situation - The limitation - Your workaround\nChallenge 3: [Learning curve or other issue]\nAdditional challenges: - What made it difficult? - How you adapted\n\n\nThe Learning Curve\n\nWas it easy to use effectively?\nDid you need to learn how to prompt it better?\nWhat mistakes did you make initially?"
+  },
+  {
+    "objectID": "reflection.html#the-human-element",
+    "href": "reflection.html#the-human-element",
+    "title": "Reflection on the Use of GenAI",
+    "section": "The Human Element",
+    "text": "The Human Element\n\nWhat AI Couldn’t Do\nReflect on what you still had to do yourself:\n\nPersonal content and stories\nCritical decisions\nCreative choices\nQuality judgment\nUnderstanding and learning\n\n\n\nMy Own Contribution\nWhat parts of this project were genuinely yours?\n\nYour personal experiences and reflections\nYour data and visualizations\nYour design preferences\nYour voice and authenticity"
+  },
+  {
+    "objectID": "reflection.html#ethical-considerations",
+    "href": "reflection.html#ethical-considerations",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Ethical Considerations",
+    "text": "Ethical Considerations\n\nHonest Use\nHow did you ensure you were using AI ethically and appropriately?\n\nDid you disclose AI use where required?\nHow did you maintain academic integrity?\nWhere did you draw the line between assistance and doing the work yourself?\n\n\n\nAttribution\nHow do you feel about crediting AI assistance? Should it be acknowledged?"
+  },
+  {
+    "objectID": "reflection.html#impact-on-learning",
+    "href": "reflection.html#impact-on-learning",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Impact on Learning",
+    "text": "Impact on Learning\n\nDid I Actually Learn?\nCritically reflect on whether using AI helped or hindered your learning:\nSkills I Developed: - Skill 1 - Skill 2 - Skill 3\nKnowledge I Gained: - What did you understand better after using AI? - What did you learn that you wouldn’t have otherwise?\nAreas Where I Might Have Missed Out: - Be honest: What might you have learned better by struggling without AI?"
+  },
+  {
+    "objectID": "reflection.html#future-outlook",
+    "href": "reflection.html#future-outlook",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Future Outlook",
+    "text": "Future Outlook\n\nAI in My Studies\nHow do you envision using AI tools in future coursework?\n\nWhat situations would you use it for?\nWhen would you avoid using it?\nWhat boundaries would you set?\n\n\n\nAI in My Career\nHow might these tools help in your future profession?\n\nPotential applications in your field\nSkills you’ll need to use AI effectively\nConcerns or considerations\n\n\n\nEvolving Perspective\nHow has your view of AI changed through this experience?\n\nWhat did you think before?\nWhat do you think now?\nWhat questions remain?"
+  },
+  {
+    "objectID": "reflection.html#advice-for-others",
+    "href": "reflection.html#advice-for-others",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Advice for Others",
+    "text": "Advice for Others\n\nTips for Using GenAI Effectively\nBased on your experience, what would you tell other students?\n\nTip 1: [Practical advice]\nTip 2: [Another suggestion]\nTip 3: [Important consideration]\n\n\n\nCommon Pitfalls to Avoid\nWhat mistakes should others avoid?\n\nPitfall 1 and how to avoid it\nPitfall 2 and how to avoid it"
+  },
+  {
+    "objectID": "reflection.html#conclusion",
+    "href": "reflection.html#conclusion",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nFinal Thoughts\nSummarize your overall experience and perspective on using GenAI for this assessment:\n\nYour main takeaway\nHow you feel about the experience\nWhat you’ll do differently next time\n\n\n“A final reflective quote or statement about AI and learning”\n\n\nThis reflection represents my genuine experience and honest thoughts about using Generative AI tools. The insights shared here come from my actual usage, successes, and struggles throughout this project.\nDate: [Today’s Date]\nTool(s) Used: [List them]\nTotal Time Spent on Project: [Approximate hours]"
   }
 ]

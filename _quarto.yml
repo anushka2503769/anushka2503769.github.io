@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: "My Project"
         href: project.qmd
+      - text: "Hobbies"
+        href: hobbies.qmd
       - text: "Data Visualization"
         href: visualization.qmd
       - text: "GenAI Reflection"
