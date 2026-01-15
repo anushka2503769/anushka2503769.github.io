@@ -10,13 +10,8 @@ subtitle: "Exploring Data Through Visual Stories"
 
 ## The Visualization
 
-<!-- INSERT YOUR VISUALIZATION HERE -->
-<!-- This could be an image, or actual code that generates the visualization -->
-
-<!-- If it's an image: -->
-<!-- ![Visualization Title](images/my-visualization.png) -->
-
-<!-- OR if you want to include R/Python code to generate it: -->
+![apple](images/apple_close_sma.png)
+![google](images/google_close_sma.png)
 
 ```{r}
 #| echo: false

@@ -2,8 +2,6 @@
 title: "Welcome"
 ---
 
-<!-- Add a beautiful header image here if you have one -->
-<!-- Example: ![Your Name](images/profile.jpg){width=300 fig-align="center"} -->
 
 ## About Me
 
@@ -30,7 +28,7 @@ Year 1 Applied Computing (FinTech) student at Singapore Institute of Technology,
 
 This website is a collection of my academic journey, creative work, and reflections:
 
-**My Project** explores [brief description of your FYP or main project]
+**My Project** explores EverFlow, a blockchain-based supply chain solution I developed.
 
 **Data Visualization** showcases my work in stock market trend analysis using Python and Seaborn.
 
