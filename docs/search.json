@@ -2,8 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“A quote that inspires you or represents your philosophy”\n— Author Name"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello! I’m Anushka, a passionate student at Singapore Institute of Technology.\nYear 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.\n\n“A quote that inspires you or represents your philosophy”\n— Author Name"
+  },
+  {
+    "objectID": "index.html#quick-facts",
+    "href": "index.html#quick-facts",
+    "title": "Welcome",
+    "section": "Quick Facts",
+    "text": "Quick Facts\n\n🎓 Current Study: Applied Computiong via FinTech at SIT\n💡 Interests: Movies, books and Web3\n🌟 Passion: Art & Technology\n📍 Based in: Singapore"
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Welcome",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\nThis website is a collection of my academic journey, creative work, and reflections:\nMy Project explores [brief description of your FYP or main project]\nData Visualization showcases my work in stock market trend analysis using Python and Seaborn.\nGenAI Reflection shares my honest experience and thoughts on using artificial intelligence tools in my learning journey.\n\n\nConnect With Me\n\n\nGitHub: anushka203769\nEmail: anushkanavneetchourasia@gmail.com\n\n\n\n“Learning is a journey, not a destination.”``"
   }
 ]

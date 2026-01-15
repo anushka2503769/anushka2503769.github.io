@@ -1,0 +1,155 @@
+---
+title: "hobbies"
+format: html
+---
+
+---
+title: "[Your Page Title]"
+subtitle: "[Your Subtitle - Optional]"
+---
+
+<!-- This is a template for any optional page you want to add -->
+<!-- Examples: Hobbies, Travel, Learning Notes, Favorite Movies, Recipes, etc. -->
+
+## Introduction
+
+<!-- Brief introduction to the topic of this page -->
+
+Write a few sentences about what this page is about and why you're sharing it.
+
+---
+
+## [Main Section 1]
+
+### Subsection
+
+Share your content here. This could be:
+
+- A list of items
+- A narrative story
+- Technical notes
+- Personal reflections
+- Photo gallery with descriptions
+
+**Example for Hobbies Page**:
+
+### Photography
+
+I've been passionate about photography for [time period]. What draws me to this hobby is [reason].
+
+Some of my favorite subjects to photograph:
+
+1. **Landscapes**: [Why you enjoy this]
+2. **Street Photography**: [Your experience]
+3. **Portraits**: [What you've learned]
+
+<!-- Insert images -->
+<!-- ![Photo Description](images/photo1.jpg) -->
+
+---
+
+## [Main Section 2]
+
+### Another Aspect
+
+Continue sharing relevant content.
+
+> "An inspiring quote related to your topic"
+> 
+> --- Author
+
+**Example for Learning Notes**:
+
+### Key Concepts I've Learned
+
+**Concept 1: [Name]**
+
+Explanation of what you learned and why it's important to you.
+
+```
+// If relevant, include code snippets or examples
+example code here
+```
+
+**Concept 2: [Name]**
+
+Another important learning point.
+
+---
+
+## [Main Section 3]
+
+### Personal Stories
+
+Share anecdotes or experiences related to your topic.
+
+**Example for Travel**:
+
+### My Trip to [Destination]
+
+In [year/month], I traveled to [place]. This experience was significant because:
+
+- Reason 1
+- Reason 2
+- What I discovered about myself
+
+The most memorable moment was when [describe experience].
+
+---
+
+## What This Means to Me
+
+Reflect on why this topic is important in your life:
+
+- How it shaped you
+- What you've gained from it
+- How it connects to your goals or values
+
+---
+
+## Future Plans
+
+What are your goals or aspirations related to this topic?
+
+- Plan 1
+- Plan 2
+- Dream goal
+
+---
+
+## Gallery / Additional Content
+
+<!-- Include additional images, videos, or media -->
+
+<!-- Example for Recipe Page: -->
+<!-- 
+### Ingredients
+- Item 1
+- Item 2
+
+### Instructions
+1. Step 1
+2. Step 2
+-->
+
+<!-- Example for Movie Review: -->
+<!--
+### Film Details
+- **Title**: [Name]
+- **Director**: [Name]
+- **Year**: [Year]
+- **Genre**: [Genre]
+
+### My Review
+What I loved about this film...
+-->
+
+---
+
+## Conclusion
+
+Wrap up your page with final thoughts about this topic.
+
+---
+
+*Last Updated: [Date]*

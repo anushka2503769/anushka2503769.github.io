@@ -1,11 +1,51 @@
 ---
-title: "temp_website"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+<!-- Add a beautiful header image here if you have one -->
+<!-- Example: ![Your Name](images/profile.jpg){width=300 fig-align="center"} -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+Hello! I'm Anushka, a passionate student at Singapore Institute of Technology.
+
+Year 1 Applied Computing (FinTech) student at Singapore Institute of Technology, specialising in blockchain development and AI applications. Actively participates in various hackathons and competitions, demonstrating fast learning and hands-on experience building decentralised systems. Passionate about leveraging programming expertise to solve complex problems at the intersection of technology and finance, with a particular interest in Web3 infrastructure and AI-powered financial solutions.
+
+> "Kindling a flame, not filling a vessel."
+> 
+> --- Socrates
+
+---
+
+## Quick Facts
+
+- 🎓 **Current Study**: Applied Computiong via FinTech at SIT
+- 💡 **Interests**: Movies, books and Web3
+- 🌟 **Passion**: Art & Technology
+- 📍 **Based in**: Singapore
+
+---
+
+## What You'll Find Here
+
+This website is a collection of my academic journey, creative work, and reflections:
+
+**My Project** explores [brief description of your FYP or main project]
+
+**Data Visualization** showcases my work in stock market trend analysis using Python and Seaborn.
+
+**GenAI Reflection** shares my honest experience and thoughts on using artificial intelligence tools in my learning journey.
+
+---
+
+### Connect With Me
+
+<!-- Add your social links or contact information -->
+- GitHub: anushka203769
+- Email: anushkanavneetchourasia@gmail.com
+
+---
+
+<!-- Optional: Add an image gallery, video, or anything that represents you -->
+
+*"Learning is a journey, not a destination."*``

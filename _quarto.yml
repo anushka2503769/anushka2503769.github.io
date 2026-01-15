@@ -3,20 +3,47 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Anushka's Portfolio"
   navbar:
+    background: "#F5E6D3"
+    foreground: "#8B7355"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "My Project"
+        href: project.qmd
+      - text: "Data Visualization"
+        href: visualization.qmd
+      - text: "GenAI Reflection"
+        href: reflection.qmd
+    right:
+      - icon: github
+        href: https://github.com/anushka2503769
+        aria-label: GitHub
+  page-footer:
+    background: "#F5E6D3"
+    foreground: "#8B7355"
+    center: "© 2026 Anushka | Created with passion and Renaissance inspiration"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: [cosmo, styles.css]
     css: styles.css
     toc: true
-
-
-
+    toc-depth: 3
+    number-sections: false
+    link-external-newwindow: true
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    fig-cap-location: bottom
+    
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+  message: false
